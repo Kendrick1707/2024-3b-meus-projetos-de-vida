@@ -5,10 +5,10 @@
     --cinza: #B4B4B8;
     --creme: #E3E1D9;
     --cremezinho: #F2EFE5;
-    --font-titulo:"Montserrat", sans-serif;
-    --texto:"Open Sans", sans-serif;
+    --font-titulo: "Montserrat", sans-serif;
+    --texto: "Open Sans", sans-serif;
 }
 
-body{
+body {
     background-color: var(--cinza-claro);
 }
