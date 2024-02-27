@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap')
+
+:root{
+    --cinza-claro: #C7C8CC;
+    --cinza: #B4B4B8;
+    --creme: #E3E1D9;
+    --cremezinho: #F2EFE5;
+    --font-titulo:"Montserrat", sans-serif;
+    --texto:"Open Sans", sans-serif;
+}
+
+body{
+    background-color: var(--cinza-claro);
+}
